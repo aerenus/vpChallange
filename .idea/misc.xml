@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/custom_maker_view.xml" value="0.3171171171171171" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/drawer_item_color.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/drawer_list_selector.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/fade_red.xml" value="0.3171171171171171" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_baseline_down.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_baseline_minus.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_baseline_up.xml" value="0.25" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_launcher_background.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_logo.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_logo_without_text.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_menu_camera.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/nav_item_bg.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/rounded_corner.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/drawable/side_nav_bar.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/activity_detail.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/activity_entry.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/activity_imkbactivity.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/activity_imkbactivity_toolbar.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/activity_main.xml" value="0.254981884057971" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/app_bar_imkbactivity.xml" value="0.2749094202898551" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/app_bar_main.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/content_imkbactivity.xml" value="0.2807971014492754" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/content_main.xml" value="0.26313405797101447" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/custom_maker_view.xml" value="0.2740036231884058" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/detail_activity.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/dusenler_fragment.xml" value="0.22871376811594202" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/entry_activity.xml" value="0.2798913043478261" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/entry_fragment.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/fragment_gallery.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/fragment_slideshow.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/hacim100_fragment.xml" value="0.2441123188405797" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/hacim30_fragment.xml" value="0.32155797101449274" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/hacim50_fragment.xml" value="0.2504528985507246" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/hisse_fragment.xml" value="0.3648780487804878" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/main_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/nav_header_main.xml" value="0.5978552278820375" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/stock_row.xml" value="0.2164855072463768" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/stock_row_header.xml" value="0.33061594202898553" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/layout/yukselenler_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/menu/activity_main_drawer.xml" value="0.19479166666666667" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/menu/drawer_view.xml" value="0.3625" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/menu/i_m_k_b.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/menu/main.xml" value="0.35052083333333334" />
+        <entry key="..\:/Users/eren.faikoglu/AndroidStudioProjects/VP/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/eren.faikoglu/Desktop/VeriPark Proje/VP/app/src/main/res/layout/activity_main.xml" value="0.2558876811594203" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

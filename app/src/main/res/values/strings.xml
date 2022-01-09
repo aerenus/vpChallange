@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">VP</string>
+    <string name="IMKBHisseVeEndeskler">IMKB Hisse ve Endeksler</string>
+    <string name="IMKBHisseSenetleriEndeskler">IMKB Hisse Senetleri/Endeskler</string>
+    <string name="hisseVeEndeksler">Hisse ve Endeksler</string>
+    <string name="yukselenler">Yükselenler</string>
+    <string name="dusenler">Düşenler</string>
+    <string name="hacmeGore30">Hacme Göre - 30</string>
+    <string name="hacmeGore50">Hacme Göre - 50</string>
+    <string name="hacmeGore100">Hacme Göre - 100</string>
+    <string name="title_activity_imkbactivity">IMKBActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="veripark">VERIPARK</string>
+    <string name="uyari">Uyarı</string>
+    <string name="tamam">Tamam</string>
+    <string name="err_UzakSunucuBaglantisiYok">Uzak sunucu ile bağlantı kurulamadı, lütfen internet bağlantınızı kontrol edin.</string>
+    <string name="sembol">Sembol</string>
+    <string name="fiyat">Fiyat</string>
+    <string name="fark">Fark</string>
+    <string name="hacim">Hacim</string>
+    <string name="alis">Alış</string>
+    <string name="satis">Satış</string>
+    <string name="degisim">Değişim</string>
+    <string name="ara">Ara</string>
+    <string name="sembolKey">Sembol:</string>
+    <string name="fiyatKey">Fiyat:</string>
+    <string name="farkKey">% Fark:</string>
+    <string name="hacimKey">Hacim:</string>
+    <string name="alisKey">Alış:</string>
+    <string name="satisKey">Satış:</string>
+    <string name="gunlukDusukKey">Günlük Düşük:</string>
+    <string name="gunlukYuksekKey">Günlük Yüksek:</string>
+    <string name="adetKey">Adet:</string>
+    <string name="tavanKey">Tavan:</string>
+    <string name="tabanKey">Taban:</string>
+    <string name="degisimKey">Değişim:</string>
+
+    <string name="birHataOlustu">Bir hata oluştu. Lütfen daha sonra tekrar deneyin.</string>
+</resources>

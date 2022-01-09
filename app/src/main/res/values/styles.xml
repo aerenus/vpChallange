@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Design.DefaultNoActionBar">
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/white</item>
+        <item name="android:colorForeground">@color/white</item>
+        <item name="android:statusBarColor">@color/alternative</item>
+    </style>
+</resources>

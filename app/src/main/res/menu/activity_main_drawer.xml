@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <!--
+        android:icon="@drawable/ic_ikon"
+        -->
+        <item
+            android:id="@+id/hisseFragment"
+            android:title="@string/hisseVeEndeksler" />
+        <item
+            android:id="@+id/yukselenlerFragment"
+            android:title="@string/yukselenler" />
+        <item
+            android:id="@+id/dusenlerFragment"
+            android:title="@string/dusenler" />
+        <item
+            android:id="@+id/hacim30"
+            android:title="@string/hacmeGore30" />
+        <item
+            android:id="@+id/hacim50"
+            android:title="@string/hacmeGore50" />
+        <item
+            android:id="@+id/hacim100"
+            android:title="@string/hacmeGore100" />
+    </group>
+</menu>

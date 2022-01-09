@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/hisseFragment">
+
+    <fragment
+        android:id="@+id/hisseFragment"
+        android:name="com.erenus.vp.imkb.hisse.HisseFragment"
+        android:label="@string/IMKBHisseVeEndeskler"
+        tools:layout="@layout/hisse_fragment" />
+
+    <fragment
+        android:id="@+id/yukselenlerFragment"
+        android:name="com.erenus.vp.imkb.yukselenler.YukselenlerFragment"
+        android:label="@string/yukselenler"
+        tools:layout="@layout/yukselenler_fragment" />
+
+    <fragment
+        android:id="@+id/dusenlerFragment"
+        android:name="com.erenus.vp.imkb.dusenler.DusenlerFragment"
+        android:label="@string/dusenler"
+        tools:layout="@layout/dusenler_fragment" />
+
+    <fragment
+        android:id="@+id/hacim30"
+        android:name="com.erenus.vp.imkb.hacim30.Hacim30Fragment"
+        android:label="@string/hacmeGore30"
+        tools:layout="@layout/hacim30_fragment" />
+
+    <fragment
+        android:id="@+id/hacim50"
+        android:name="com.erenus.vp.imkb.hacim50.Hacim50Fragment"
+        android:label="@string/hacmeGore50"
+        tools:layout="@layout/hacim50_fragment" />
+
+    <fragment
+        android:id="@+id/hacim100"
+        android:name="com.erenus.vp.imkb.hacim100.Hacim100Fragment"
+        android:label="@string/hacmeGore100"
+        tools:layout="@layout/hacim100_fragment" />
+
+</navigation>
