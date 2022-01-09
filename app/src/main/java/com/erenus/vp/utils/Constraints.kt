@@ -5,7 +5,7 @@ package com.erenus.vp.utils
  */
 class Constraints {
     companion object {
-        const val BASE_URL = "https://mobilechallenge.veripark.com/api/"
+        const val BASE_URL = "https://erenus.net/api/"
         const val HANDSHAKE_URL = "handshake/start"
         const val STOCKS_URL = "stocks/list"
         const val STOCK_DETAIL_URL = "stocks/detail"
